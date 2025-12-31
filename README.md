@@ -41,16 +41,13 @@ churn-analysis-project/
 ├── LICENSE
 
 ├── data/
-
 │   └── Avis.csv
 
 ├── sql/
-
 │   └── churn_analysis_script.sql
 
 └── docs/
-
-    └── mongodb_insertion.js
+     └── mongodb_insertion.js
 
 
 ---
@@ -72,8 +69,8 @@ churn-analysis-project/
 
 1. Créer une base de données nommée churnDb
 2. Exécute le script :  
-   ```
-   SOURCE sql/churn_analysis_script.sql;```
+   
+   SOURCE sql/churn_analysis_script.sql;
    
 3. Interroge la vue consolidée :
 
@@ -103,7 +100,9 @@ Licence : MIT
 
 GitHub : @Hassan25dev
 
+
 📌 Prochaines améliorations
+
 
 Modélisation prédictive du churn
 
