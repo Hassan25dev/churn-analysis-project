@@ -73,17 +73,16 @@ churn-analysis-project/
 1. Créer une base de données nommée churnDb
 2. Exécute le script :  
    
-   ```
-   SOURCE sql/churn_analysis_script.sql;
+   ```SOURCE sql/churn_analysis_script.sql;```
    
 3. Interroge la vue consolidée :
 
-```SELECT * FROM Consolidation_Churn;```
+   ``` SELECT * FROM Consolidation_Churn;```
 
 
 💻 Compatible avec MySQL, SQL Server (modifications mineures pour GO + DATEDIFF), ou MariaDB.
 
-
+---
 📝 À propos
 
 Auteur : HASSANE AMANAD
@@ -104,7 +103,7 @@ Licence : MIT
 
 GitHub : @Hassan25dev
 
-
+---
 
 
 📌 Prochaines améliorations
