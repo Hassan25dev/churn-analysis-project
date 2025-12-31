@@ -83,6 +83,19 @@ churn-analysis-project/
 💻 Compatible avec MySQL, SQL Server (modifications mineures pour GO + DATEDIFF), ou MariaDB.
 
 ---
+
+
+📌 Prochaines améliorations
+
+
+Modélisation prédictive du churn
+
+Visualisation (Power BI ou Python)
+
+Automatisation du pipeline de données
+
+---
+
 📝 À propos
 
 Auteur : HASSANE AMANAD
@@ -103,14 +116,3 @@ Licence : MIT
 
 GitHub : @Hassan25dev
 
----
-
-
-📌 Prochaines améliorations
-
-
-Modélisation prédictive du churn
-
-Visualisation (Power BI ou Python)
-
-Automatisation du pipeline de données
